@@ -118,7 +118,7 @@ The accuracy of the `icc_classifier` was 97.4%, and that of the `manu_classifier
 
 We saw that the Naive Bayes algorithm did a decent job in analyzes the sentiments of the tweets in the test data, despite the assumptions of the Naive Bayes model.
 
-## Possible expansions of this work in future projects
+## Possible expansions to this work in future projects
 
 - Usage of Machine Learning algorithms other than Naieve Bayes, such as Support Vector Machine (SVM)
 - Inclusion of emoticons in Sentiment Analysis
