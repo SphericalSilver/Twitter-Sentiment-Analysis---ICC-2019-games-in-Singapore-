@@ -13,7 +13,7 @@ The library `twitteR` was used to connect to the Twitter API, and then search fo
 
 2000 tweets for each Hashtag were retrieved, and **to ensure relevance and recency, only tweets after 1st July were searched for.**
 
-## Data Handling
+## Initial Data Processing/Cleaning
 
 The data was then stored as two dataframes, `manu_tweets` and `icc_tweets`, and the dataframes were then cleaned to be suitable for analysis, in a process which  involved:
 
@@ -30,7 +30,7 @@ The outcomes of the visualization are as follows:
 
 ![icc tweet viz](https://i.gyazo.com/8657d3cc02512c5fe93f208d09dbe89e.png)
 
-We see above that in the `manu_tweets` dataframe, the Twitter apps for Android and iPhone account for the most tweets. **What's interesting to note is that most of the time a tweet occurs on a mobile app, it is a retweet much more often than not.** On web clients, users are more likely to post original tweets, rather than re-tweet.
+We see above that in the `manu_tweets` dataframe, the Twitter apps for Android and iPhone account for the most tweets. **What's interesting to note is that most of the time a tweet occurs on a mobile app, it is a retweet much more often than an original tweet.** On web clients, users are more likely to post original tweets, rather than re-tweet.
 
 For the `icc_tweets` dataframe, the biggest thing that stands out is that compared to the #ManUTD hashtag, the #ICC2019 hashtag has a significantly higher proportion of re-tweets than original tweets.
 
@@ -49,7 +49,7 @@ A corpus of words from the `texts` columns in the dataframes `manu_tweets` and `
 
 Word Clouds for both tweets were then generated:
 
-![word cloud manu](https://i.gyazo.com/36495589463249be054dfd7ceaa1f1a7.png)
+![word cloud manu](https://i.gyazo.com/b2439f77e6813aa4752cce3820d9c3c1.png)
 
 ![word cloud icc](https://i.gyazo.com/626df521b110d3cb462ea9c49fa060c9.png)
 
@@ -94,7 +94,7 @@ We started by training the classifiers.
 
 ### Testing the classifiers 
 
-The classifiers were then
+The classifiers were then tested:
 
 ![classifier test](https://i.gyazo.com/49df7a4bd0378517dd6680f9f12bae65.png)
 
