@@ -120,14 +120,17 @@ We saw that the Naive Bayes algorithm did a decent job in analyzes the sentiment
 
 ## Possible expansions of this work in future projects
 
-- Using Machine Learning algorithms other than Naieve Bayes, such as Support Vector Machine (SVM)
-- Including emoticon usage in Sentiment Analysis
+- Usage of Machine Learning algorithms other than Naieve Bayes, such as Support Vector Machine (SVM)
+- Inclusion of emoticons in Sentiment Analysis
 - Detection of Sarcasm
 
 ## Application of project to other uses
 
 Just as information was mined using the #ManUTD and #ICC2019 hashtags, the same can be done to monitor the sentiments of users when it comes to a product, or with a brand.
 
-This can be used for a company to monitor the reaction of people to a product of theirs. Apart from their sentiment with the product, it could also **measure their anticipation in the days leading up to its release**. Tweets could even by analyzed by the time they occur to understand what time users of that product are most active.
+This can be used for a company to monitor the reaction of people to a product of theirs. 
 
-**The overall sentiment score could be measured over time on a line graph**, and kept watch on to make sure users are generally satisfied with the product. Even the Wordclouds might be useful, because these **could indicate trending topics among the users of your product, so you might know how to better target your advertisements.**
+- Apart from their sentiment with the product, it could also **measure their anticipation in the days leading up to its release**. 
+- Tweets could even by analyzed by the time they occur to understand what time users of that product are most active.
+- **The overall sentiment score could be measured over time on a line graph**, and kept watch on to make sure users are generally satisfied with the product. 
+- Even the Wordclouds might be useful, because these **could indicate trending topics among the users of your product, so you might know how to better target your advertisements.**
