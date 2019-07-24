@@ -9,7 +9,7 @@ The library `twitteR` was used to connect to the Twitter API, and then search fo
 1. #ManUtd
 2. #ICC2019
 
-[Twitter Search](https://i.gyazo.com/04cb5f59929ae5153eedf7c1b01fdf73.png)
+![Twitter Search](https://i.gyazo.com/04cb5f59929ae5153eedf7c1b01fdf73.png)
 
 2000 tweets for each Hashtag were retrieved, and **to ensure relevance and recency, only tweets after 1st July were searched for.**
 
