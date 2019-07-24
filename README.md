@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis ICC 2019 games in Singapore 
+# Twitter Sentiment Analysis of ICC 2019 games in Singapore 
 
 Twitter Sentiment Analysis was performed using the Twitter API to mine the tweets we wanted by hashtag. 
 
